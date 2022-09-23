@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                                  𝚂𝙴𝙷𝙰𝚂 𝙼𝙳 𝙱𝚈 ѕєнαѕ
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝚂𝙴𝙷𝙰𝚂 
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94 77 479 3303']
-global.premium = ['+94 77 479 3303']
-global.ownernomer = '+94 77 479 3303'
-global.ownername = '🐦𝚂𝙴𝙷𝙰𝚂 𝙼𝙳⚞💥'
+global.owner = ['380 94 660 7980']
+global.premium = ['380 94 660 7980']
+global.ownernomer = '380 94 660 7980'
+global.ownername = '𝚂𝙴𝙷𝙰𝚂 𝙼𝙳⚞💥'
 global.botname = '♦️𝗦𝗘𝗛𝗔𝗦 💎𝗠𝗗🌈'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://www.tiktok.com/@sehas_comedy_official_?is_from_webapp=1&sender_device=pc'
-global.packname = '𝚂𝙴𝙷𝙰𝚂 𝙼𝙳⚞💥'
-global.author = '🐦Star Boy Nexus'
+global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.packname = '♦️𝗦𝗘𝗛𝗔𝗦 💎𝗠𝗗🌈'
+global.author = '♦️𝗦𝗘𝗛𝗔𝗦 💎𝗠𝗗🌈'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
